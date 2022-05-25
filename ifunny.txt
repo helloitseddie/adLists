@@ -57,3 +57,12 @@
 127.0.0.1 v.mdhv.io
 127.0.0.1 rtbadzesto.com
 127.0.0.1 googletagservices.com
+127.0.0.1 adnxs.com
+127.0.0.1 crwdcntrl.net
+127.0.0.1 *.rapidbidding.com
+127.0.0.1 *.betrad.com
+127.0.0.1 *.moatpixel.com
+127.0.0.1 *.adnxs-simple.com
+127.0.0.1 *.moatads.com
+
+
