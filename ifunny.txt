@@ -1,0 +1,12 @@
+127.0.0.1 ifunnyads.com
+127.0.0.1 ifunnyads*.com
+127.0.0.1 adrta.com
+127.0.0.1 an.facebook.com
+127.0.0.1 api.snapkit.com
+127.0.0.1 appodealx.com
+127.0.0.1 dessaly.com
+127.0.0.1 inmobi.com
+127.0.0.1 inner-active.mobi
+127.0.0.1 liftoff.io
+127.0.0.1 mintegral.com
+127.0.0.1 pubmatic.com
