@@ -43,7 +43,7 @@
 127.0.0.1 *.inmobicdn.net
 127.0.0.1 kochava.com
 127.0.0.1 appsflyer.com
-127.0.0.1 applvn.com
+127.0.0.1 *.applvn.com
 127.0.0.1 p.mrmdgrp.com
 127.0.0.1 p.techdka.com
 127.0.0.1 getpublica.com
@@ -56,7 +56,7 @@
 127.0.0.1 v.mdhv.io
 127.0.0.1 rtbadzesto.com
 127.0.0.1 googletagservices.com
-127.0.0.1 adnxs.com
+127.0.0.1 *.adnxs.com
 127.0.0.1 crwdcntrl.net
 127.0.0.1 *.rapidbidding.com
 127.0.0.1 *.betrad.com
