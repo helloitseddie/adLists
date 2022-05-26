@@ -40,7 +40,7 @@
 127.0.0.1 elxstrm.com
 127.0.0.1 adsmoloco.com
 127.0.0.1 krushmedia.com
-127.0.0.1 i.l-dsp.inmobicdn.net
+127.0.0.1 *.inmobicdn.net
 127.0.0.1 kochava.com
 127.0.0.1 appsflyer.com
 127.0.0.1 applvn.com
@@ -74,3 +74,11 @@
 127.0.0.1 *.adsrvr.org
 127.0.0.1 *.rqtrk.eu
 127.0.0.1 *.mopub.com
+127.0.0.1 *.3lift.com
+127.0.0.1 *.tpbid.com
+127.0.0.1 *.b-cdn.net
+127.0.0.1 *.yabidos.com
+127.0.0.1 *.glotgrx.com
+127.0.0.1 rtb-stats.com
+127.0.0.1 servoror.com
+127.0.0.1 useulti.xyz
