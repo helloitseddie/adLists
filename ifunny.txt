@@ -14,7 +14,6 @@
 127.0.0.1 smaato.net
 127.0.0.1 smadex.com
 127.0.0.1 app.ssp.yahoo.com
-127.0.0.1 g.doubleclick.net
 127.0.0.1 amazon-adsystem.com
 127.0.0.1 app-measurement.com
 127.0.0.1 graph.facebook.com
@@ -64,5 +63,13 @@
 127.0.0.1 *.moatpixel.com
 127.0.0.1 *.adnxs-simple.com
 127.0.0.1 *.moatads.com
-
-
+127.0.0.1 *.sonobi.com
+127.0.0.1 *.doubleverify.com
+127.0.0.1 *.doubleclick.net
+127.0.0.1 *.celtra.com
+127.0.0.1 cdn.a.ki
+127.0.0.1 *.mookie1.com
+127.0.0.1 *.tapad.com
+127.0.0.1 s0.2mdn.net
+127.0.0.1 *.adsrvr.org
+127.0.0.1 *.rqtrk.eu
