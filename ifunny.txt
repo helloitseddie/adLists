@@ -2,6 +2,7 @@
 # Hello, my name's Eddie
 # I started this project because I noticed a lot of tracking attempts when I used certain apps on my phone
 # This specific list blocks all suspicious domain calls by the app iFunny
+# These lists are designed to be used with the app AdBlock by FutureMind
 
 127.0.0.1 *.ifunnyads.com
 127.0.0.1 *.ifunnyads*.com
