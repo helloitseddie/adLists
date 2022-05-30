@@ -134,9 +134,9 @@
 127.0.0.1 *.servious.xyz
 127.0.0.1 *.useulti.xyz
 127.0.0.1 *.smartadserver.com
-27.0.0.1 *.iserveads.com
-27.0.0.1 *.yldvid.com
-27.0.0.1 *.pubpges.com
-27.0.0.1 *.vdoadtube.com
-27.0.0.1 *.flowew.com
-27.0.0.1 *.elxstrm.com
+127.0.0.1 *.iserveads.com
+127.0.0.1 *.yldvid.com
+127.0.0.1 *.pubpges.com
+127.0.0.1 *.vdoadtube.com
+127.0.0.1 *.flowew.com
+127.0.0.1 *.lkqd.net
