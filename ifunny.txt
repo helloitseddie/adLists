@@ -140,3 +140,6 @@
 127.0.0.1 *.vdoadtube.com
 127.0.0.1 *.flowew.com
 127.0.0.1 *.lkqd.net
+127.0.0.1 *.mchnad.com
+127.0.0.1 *.jampp.com
+127.0.0.1 *.mchncdn.com
